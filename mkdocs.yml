@@ -1,0 +1,8 @@
+site_name: Decked Wiki
+theme:
+  name: slate
+  highlightjs: true
+  hljs_languages:
+    - bash
+nav:
+  - Home: 'index.md'
